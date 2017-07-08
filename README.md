@@ -12,11 +12,15 @@ LA (Pseudo-Instruction which is actually LUI then ORI),
 LW, SW, ADDU, ADDIU, SLT, SLTIU, BEQ,
 BNE, ANDI, LUI, ORI, XORI, SLL, SRL
 
-#If you have any questions, feel free to ask.
 
 #You can see in Architecture.png what we "modified".
 
 #In the file called "tp2_20171-5.pdf" you can, in Brazillian Portuguese, what the our job was.
+
+#For simulation, please change the path of the files containing the RAM and instructions as explained in
+ram.vhd, InstructionMemory.vhd
+
+#If you have any questions, feel free to ask.
 
 #Side-Note:
 
